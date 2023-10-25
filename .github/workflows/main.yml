@@ -20,4 +20,4 @@ jobs:
       - name: Scrape Winterthur
         run: python scrape_winterthurer_zeitung.py
       - name: Get Parkings Zürich
-        run: python parking_zuerich.py.py
+        run: python parking_zuerich.py
